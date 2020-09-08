@@ -1,0 +1,51 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+}
+.cth{
+	min-height: 600px;
+	padding: 0 10px;
+}
+.cth .cth_list{
+	border-bottom: 1px solid #f5f5f5;
+	padding:8px 0;
+}
+.cth .cth_list a{
+	text-decoration: none;
+}
+.cth .cth_list a img{
+	display: block;
+	float: right;
+	width:100px;
+	height:70px;
+}
+.cth .cth_title{
+	width: 65%;
+	display: block;
+	float: left;
+	line-height: 30px;
+	margin-top: 5px;
+	color: #111;
+	letter-spacing: 0.03em;
+}
+#tips{
+	padding: 10px 10px;
+}
+.tips{
+	background: #5FC0C6;
+	padding:30px 15px;
+	margin:10px 0;
+}
+.tips h4{
+	color: #fff;
+	font-family: '微软雅黑 Light';
+	font-size:28px;
+	text-align: center;
+	letter-spacing: 2px;
+}
+.tips .tips_content{
+	background: #fff;
+	padding: 10px;
+	color: #333;
+	margin-top: 25px;
+	letter-spacing: 1px;
+}
